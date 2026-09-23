@@ -118,60 +118,7 @@ jupyter notebook PharmaGuard_AI_Analysis.ipynb
 
 ---
 
-## 📊 Key Output Charts
 
-### Market Share & KPIs
-![Market Share](outputs/01_market_share.png)
-
-### Monthly Sales Trends (2014–2019)
-![Monthly Trends](outputs/02_monthly_trends.png)
-
-### Annual Sales by Drug Category
-![Annual Sales](outputs/03_annual_sales.png)
-
-### Seasonal Demand Patterns
-![Seasonality](outputs/04_seasonality.png)
-
-### Day-of-Week Demand Patterns
-![Day of Week](outputs/05_dow_pattern.png)
-
-### Hourly Demand Profile
-![Hourly Pattern](outputs/06_hourly_pattern.png)
-
-### Drug Correlation Matrix
-![Correlation](outputs/07_correlation.png)
-
-### Anomaly Detection – N02BE (Isolation Forest)
-![Anomalies](outputs/08_anomaly_n02be.png)
-
-### Daily Z-Score Anomalies
-![Z-Score Anomalies](outputs/09_zscore_anomalies.png)
-
-### Demand Forecast – All 8 Drugs
-![Forecast](outputs/10_forecast_all_drugs.png)
-
-### Rolling Moving Average – N02BE
-![Moving Average](outputs/11_moving_average_n02be.png)
-
-### Supply Chain Risk (CV%)
-![Risk](outputs/12_risk_cv.png)
-
-### Year-over-Year Growth Heatmap
-![YoY Growth](outputs/13_yoy_growth.png)
-
-### Growth Opportunity – 2014 vs 2018
-![Opportunity](outputs/14_growth_opportunity.png)
-
-### Drug Demand Clusters
-![Clusters](outputs/15_drug_clusters.png)
-
-### Seasonal Profiles by Cluster
-![Seasonal Clusters](outputs/16_seasonal_by_cluster.png)
-
-### Weekly Sales Heatmap – N02BE
-![Weekly Heatmap](outputs/17_weekly_heatmap_n02be.png)
-
----
 
 ## 💡 Key Verified Findings (from executed analysis)
 
