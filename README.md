@@ -76,6 +76,7 @@ IBMPROJECT/
 
 ## 📊 Dataset Summary
 
+Dataset link:https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data/data
 | Dataset | Records | Granularity | Date Range |
 |---|---|---|---|
 | `salesdaily.csv` | 2,080 rows | Per day | Jan 2014 – Oct 2019 |
